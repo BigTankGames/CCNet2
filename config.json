@@ -4,7 +4,7 @@
   "MOTD": "",
   "Password": "",
   "MaxPlayers": 100,
-  "MaxViewRadius": 12,
+  "MaxViewRadius": 8,
   "LocalCompressionEnabled": false,
   "Defaults": {
     "World": "default",
@@ -25,4 +25,5 @@
   "PlayerStorage": {
     "Type": "Hytale"
   }
+
 }
