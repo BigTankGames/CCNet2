@@ -3,7 +3,7 @@
     "enabled": true,
     "intervalSeconds": 300,
     "initialDelaySeconds": 60,
-    "gcEveryNAttempts": 0,
+    "gcEveryNAttempts": 1,
     "mapAwareMode": false
   },
   "chunkCleanup": {
